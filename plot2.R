@@ -24,7 +24,7 @@
   
   par(bg = NA)
   plot(dateTime,data$Global_active_power, type = "l", lty = 1, 
-       ylab ="Global Active Power(kilowatts)",main = "Global Active Power",
+       ylab ="Global Active Power(kilowatts)",main = " ",
        xlab = "")
   
   # Saving the figure
